@@ -133,7 +133,7 @@
     "support": {
       "group": "module",
       "repo": "https://github.com/abricos/abricos-mod-support.git",
-      "version": "master"
+      "version": "0.1.4"
     },
     "tag": {
       "group": "module",
