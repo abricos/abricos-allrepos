@@ -33,7 +33,7 @@
     "botask": {
       "group": "module",
       "repo": "https://github.com/abricos/abricos-mod-botask.git",
-      "version": "master"
+      "version": "0.3.1"
     },
     "catalog": {
       "group": "module",
