@@ -110,6 +110,11 @@
       "repo": "https://github.com/abricos/abricos-mod-notify.git",
       "version": "0.1.4"
     },
+    "pictab": {
+      "group": "module",
+      "repo": "https://github.com/abricos/abricos-mod-pictab.git",
+      "version": "master"
+    },
     "price": {
       "group": "module",
       "repo": "https://github.com/abricos/abricos-mod-price.git",
