@@ -49,5 +49,3 @@ $config['Template'] = array(
     )
 );
 /**/
-
-?>
