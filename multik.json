@@ -150,6 +150,11 @@
       "repo": "https://github.com/abricos/abricos-mod-tag.git",
       "version": "master"
     },
+    "team": {
+      "group": "module",
+      "repo": "https://github.com/abricos/abricos-mod-team.git",
+      "version": "0.2.0"
+    },
     "tinymce": {
       "group": "module",
       "repo": "https://github.com/abricos/abricos-mod-tinymce.git",
@@ -183,6 +188,11 @@
     "widget": {
       "group": "module",
       "repo": "https://github.com/abricos/abricos-mod-widget.git",
+      "version": "master"
+    },
+    "working": {
+      "group": "module",
+      "repo": "https://github.com/abricos/abricos-mod-working.git",
       "version": "master"
     }
   },
